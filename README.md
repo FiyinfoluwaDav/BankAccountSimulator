@@ -39,7 +39,7 @@ A secure, object-oriented banking application with GUI interface that manages cu
    Python main.py
 
 3. **Code Structure**
-   
+   ```bash   
     ├── main.py                 # Entry point
     ├── active_accounts.json    # Active accounts database
     ├── deleted_accounts.json   # Deleted accounts archive
