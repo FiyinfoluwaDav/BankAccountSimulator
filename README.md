@@ -36,11 +36,11 @@ A secure, object-oriented banking application with GUI interface that manages cu
 
 2. **Run the application**:
    ```bash
-   Python main.py
+   Python L1Q4_app.py
 
 3. **Code Structure**
    ```bash   
-    ├── main.py                 # Entry point
+    ├── L1Q4_app.py             # Entry point
     ├── active_accounts.json    # Active accounts database
     ├── deleted_accounts.json   # Deleted accounts archive
     └── README.md
