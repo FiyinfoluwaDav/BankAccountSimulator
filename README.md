@@ -9,6 +9,20 @@ A secure, object-oriented banking application with GUI interface that manages cu
 
 ---
 
+
+## 📸 Screenshots  
+
+### Login Screen  
+![Login Screen](https://github.com/FiyinfoluwaDav/BankAccountSimulator/blob/main/Login.png?raw=true)  
+
+### Create Account Screen  
+![Create Account Screen](https://github.com/FiyinfoluwaDav/BankAccountSimulator/blob/main/Create_Account.png?raw=true)  
+
+### Home Screen (Dashboard)  
+![Home Screen](https://github.com/FiyinfoluwaDav/BankAccountSimulator/blob/main/Home.png?raw=true)
+
+
+
 ## Key Features  
 ✅ **Account Management**  
 - Create, login, recover, and delete accounts  
