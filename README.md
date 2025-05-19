@@ -13,7 +13,7 @@ A secure, object-oriented banking application with GUI interface that manages cu
 ## 📸 Screenshots  
 
 ### Login Screen  
-![Login Screen](?raw=true)  
+![Login Screen](https://github.com/FiyinfoluwaDav/BankAccountSimulator/blob/main/Login.png?raw=true)  
 
 ### Create Account Screen  
 ![Create Account Screen](https://github.com/FiyinfoluwaDav/BankAccountSimulator/blob/main/Create_Account.png?raw=true)  
